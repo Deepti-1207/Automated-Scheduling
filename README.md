@@ -1,0 +1,2 @@
+# Automated-Scheduling
+An intelligent scheduling application that uses Gemini to understand natural language and automatically add events to a calendar. Simply type your request, and let the AI handle the rest.
